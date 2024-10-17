@@ -1,0 +1,13 @@
+Package                 Version
+----------------------- ---------
+Keras                   2.4.3
+Keras-Preprocessing     1.1.2
+matplotlib              3.5.3
+matplotlib-inline       0.1.6
+numpy                   1.21.5
+opencv-python           4.8.0.74
+Pillow                  9.0.1
+scikit-image            0.19.3
+scipy                   1.6.2
+tensorflow              2.4.1
+tensorflow-estimator    2.6.0
